@@ -56,6 +56,10 @@ paginate_path: 'page:num'
 menus:
 
   -
+    href: /webTest/index.html
+    label: 点击测试
+    target: _blank  
+  -
     href: http://itmooc.tech/
     label: IDEA破解
     target: _blank  
